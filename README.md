@@ -42,8 +42,8 @@
 - Email: abhidevmohan17@gmail.com
 
 
-
-
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/abhidev17/abhidev17/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-contribution-grid-snake.svg)
+
+
