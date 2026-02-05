@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=abhidev17&color=blue)
+
 <h1 align="center">Hi 👋 I'm Abhidev</h1>
 <h3 align="center">Computer Science Student | Future Software Engineer 🚀</h3>
 
@@ -6,6 +8,12 @@
 - ⚡ Goal: Become a strong engineer
 
 ---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=tokyonight)
+
+
 
 ## 📈 GitHub Stats
 
