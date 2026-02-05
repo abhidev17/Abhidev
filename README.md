@@ -14,3 +14,14 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhidev17&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidev17&layout=compact&theme=tokyonight)
+
+
+## 🧰 Tech Stack
+
+![C](https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,git,github,vscode)
+
+## 🌐 Connect with me
+
+- LinkedIn: https://linkedin.com/in/Abhidev Mohan
+- LeetCode: https://leetcode.com/Abhidev17
+- Email: abhidevmohan17@gmail.com
