@@ -20,6 +20,13 @@
 
 ![C](https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,git,github,vscode)
 
+
+### 🚀 Featured Projects
+
+- 🔹 Campus Rideshare Application (Java)
+- 🔹 Portfolio Website
+
+
 ## 🌐 Connect with me
 
 - LinkedIn: https://linkedin.com/in/abhidev-mohan-7a300934b
