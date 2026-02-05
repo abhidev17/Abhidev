@@ -22,6 +22,6 @@
 
 ## 🌐 Connect with me
 
-- LinkedIn: https://linkedin.com/in/abhidev-mohan
+- LinkedIn: https://linkedin.com/in/abhidev-mohan-7a300934b
 - LeetCode: https://leetcode.com/Abhidev17
 - Email: abhidevmohan17@gmail.com
