@@ -17,7 +17,10 @@
 
 ## 📈 GitHub Stats
 
-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
+![Stats](https://github-readme-stats.vercel.app/api?username=abhidev17&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidev17&layout=compact&theme=tokyonight)
+
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhidev17&theme=tokyonight)
 
