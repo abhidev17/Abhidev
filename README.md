@@ -13,9 +13,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=tokyonight)
 
+## 🏆 GitHub Trophies
 
-
-## 📈 GitHub Stats
+![trophy](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=tokyonight&no-frame=true&margin-w=10)
 
 ## 📊 GitHub Stats
 
