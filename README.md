@@ -9,9 +9,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
