@@ -65,8 +65,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidev17&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidev17&theme=dracula"/>
 </p>
 
 ## ⏱ Weekly Coding Stats
