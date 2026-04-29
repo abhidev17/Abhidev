@@ -73,11 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       47 mins               ███████████▒░░░░░░░░░░░░░   45.17 %
-Other        24 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
-YAML         17 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-JavaScript   12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
